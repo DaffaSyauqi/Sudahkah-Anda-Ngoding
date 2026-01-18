@@ -110,6 +110,6 @@ else:
     st.info("Belum ada data sama sekali.")
 
 st.markdown(
-    "<small>⭐ <a href='https://github.com/username/nama-repo' target='_blank'>Star on GitHub</a></small>",
+    "<small>⭐ <a href='https://github.com/DaffaSyauqi/Sudahkah-Anda-Ngoding' target='_blank'>Star on GitHub</a></small>",
     unsafe_allow_html=True
 )
