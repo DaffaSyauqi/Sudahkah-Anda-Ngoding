@@ -1,7 +1,7 @@
 # Sudahkah Anda Ngoding Hari Ini?
 
-Sudahkah Anda Ngoding Hari Ini? adalah aplikasi web sederhana yang ringan, interaktif, dan menampilkan statistik kebiasaan ngoding dalam bentuk visualisasi grafik.
-Jadi apakah sudah ngoding hari ini???
+Aplikasi web sederhana yang ringan, interaktif, dan menampilkan statistik kebiasaan ngoding dalam bentuk visualisasi grafik.
+Jadi apakah anda sudah ngoding hari ini???
 
 ---
 
@@ -33,7 +33,7 @@ cd sudahkah-anda-ngoding
 pip install -r requirements.txt
 ```
 
-### 3. Menjalankan Aplikasi
+### 3. Running Local
 ```bash
 streamlit run app.py
 ```
