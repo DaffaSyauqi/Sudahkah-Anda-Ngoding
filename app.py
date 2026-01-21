@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 
 st.markdown("""
 <style>
-/* Membesarkan tombol */
 div.stButton > button {
     width: 100&;
     height: 50px;
