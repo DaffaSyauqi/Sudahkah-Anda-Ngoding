@@ -1,6 +1,6 @@
 # Sudahkah Anda Ngoding Hari Ini?
 
-Aplikasi web sederhana yang ringan, interaktif, dan menampilkan statistik kebiasaan ngoding dalam bentuk visualisasi grafik.
+Aplikasi web sederhana yang ringan, interaktif, dan dapat menampilkan statistik kebiasaan ngoding dalam bentuk visualisasi grafik.
 Jadi apakah anda sudah ngoding hari ini???
 
 ---
